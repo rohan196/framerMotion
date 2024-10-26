@@ -47,13 +47,13 @@ module.exports = {
       2,
       1050,
     ],
-    'no-multiple-empty-lines': [
-      'error',
-      {
-        max: 1,
-        maxEOF: 0,
-      },
-    ],
+    // 'no-multiple-empty-lines': [
+    //   'error',
+    //   {
+    //     max: 1,
+    //     maxEOF: ,
+    //   },
+    // ],
     'no-underscore-dangle': [
       'error',
       {
